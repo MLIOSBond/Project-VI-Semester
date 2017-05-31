@@ -2,9 +2,6 @@ package projectBFS;
 
 import java.util.*;
 
-/**
- * Created by slava on 10.11.2016.
- */
 public class Bfs {
     private static final int n = 5;
     private boolean[] visited;
