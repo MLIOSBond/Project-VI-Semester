@@ -3,9 +3,6 @@ package projectBFS;
 import java.util.LinkedList;
 import java.util.Queue;
 
-/**
- * Created by slava on 10.11.2016.
- */
 
 public class Main {
     public static void main(String[] args) {
