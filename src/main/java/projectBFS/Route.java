@@ -1,8 +1,5 @@
 package projectBFS;
 
-/**
- * Created by slava on 21.05.2017.
- */
 public class Route {
     private String route;
     private Integer weight;
